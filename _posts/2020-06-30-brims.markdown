@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules"
+date:   2020-06-30 00:00:00 +00:00
+image: /images/brims.png
+categories: research
+author: "Sarthak Mittal"
+authors: "<strong>Sarthak Mittal</strong>, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio"
+venue: "ICML 2020"
+arxiv: https://arxiv.org/abs/2006.16981
+code: https://github.com/sarthmit/BRIMs
+---
+We propose <i>BRIMs: Bidirectional Recurrent Independent Mechanisms</i> which is an attention-based modular system that allows efficient combination of top-down and bottom-up signals for robust prediction. We empirically demonstrate the benefits of dynamic modulation of top-down and bottom-up signals on benchmarks across a variety of domains.
