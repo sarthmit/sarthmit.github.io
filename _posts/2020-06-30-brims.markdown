@@ -6,7 +6,7 @@ image: /images/brims.png
 categories: research
 author: "Sarthak Mittal"
 authors: "<strong>Sarthak Mittal</strong>, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio"
-venue: "ICML 2020"
+venue: "ICML"
 arxiv: https://arxiv.org/abs/2006.16981
 code: https://github.com/sarthmit/BRIMs
 ---
