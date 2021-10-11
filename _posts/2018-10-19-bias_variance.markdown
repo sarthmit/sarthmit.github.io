@@ -5,7 +5,7 @@ date:   2019-10-19 00:00:00 +00:00
 image: /images/bias-variance.png
 categories: research
 author: "Sarthak Mittal"
-authors: "Brady Neal, <strong>Sarthak Mittal</strong>, Aristide Baratin, Vinayak Tantia, Matthew Scicluna, Simone Lacoste-Julien, Ioannis Mitliagkas"
+authors: "Brady Neal, <strong>Sarthak Mittal</strong>, Aristide Baratin, Vinayak Tantia, Matthew Scicluna, Simon Lacoste-Julien, Ioannis Mitliagkas"
 venue: "ICML Deep Phenomena Workshop"
 arxiv: https://arxiv.org/abs/1810.08591
 ---
