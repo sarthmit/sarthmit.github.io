@@ -2,7 +2,7 @@
 layout: post
 title:  "Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning"
 date:   2021-10-11 00:00:00 +00:00
-image: /images/brims.png
+image: /images/systematic.png
 categories: research
 author: "Sarthak Mittal"
 authors: "Nan Rosemary Ke, Aniket Didolkar, <strong>Sarthak Mittal</strong>, Anirudh Goyal, Guillaume Lajoie, Stefan Bauer, Danilo Rezende, Michael Mozer, Yoshua Bengio, Christopher Pal"
