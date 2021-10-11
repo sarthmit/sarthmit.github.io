@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning"
+date:   2021-10-11 00:00:00 +00:00
+image: /images/brims.png
+categories: research
+author: "Sarthak Mittal"
+authors: "Nan Rosemary Ke, Aniket Didolkar, <strong>Sarthak Mittal</strong>, Anirudh Goyal, Guillaume Lajoie, Stefan Bauer, Danilo Rezende, Michael Mozer, Yoshua Bengio, Christopher Pal"
+venue: "NeurIPS Datasets and Benchmarks Track"
+arxiv: https://arxiv.org/abs/2107.00848
+code: https://github.com/dido1998/CausalMBRL
+---
+We propose a benchmark for systematic evaluation of model-based reinforcement learning algorithms. We evaluate various algorithms on tasks with underlying causal graphs of varying complexities on metrics based on rankings, reconstructions, as well as downstream RL performance.
