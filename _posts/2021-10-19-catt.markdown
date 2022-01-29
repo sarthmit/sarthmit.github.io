@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compositional Attention: Disentangling Search and Retrieval"
-date:   2022-10-19 00:00:00 +00:00
+date:   2022-01-28 00:00:00 +00:00
 image: /images/catt.png
 categories: research
 author: "Sarthak Mittal"
