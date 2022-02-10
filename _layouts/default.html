@@ -89,7 +89,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} <b style="color:red !important;">Spotlight</b> {% if post.spotlight %} (<span style="color:red;"><em>Spotlight</em></span>) {% endif %}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} {% if post.spotlight %} (<span style="color:#bf0000;"><em>Spotlight</em></span>) {% endif %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
