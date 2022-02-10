@@ -6,7 +6,7 @@ image: /images/catt.png
 categories: research
 author: "Sarthak Mittal"
 authors: "<strong>Sarthak Mittal</strong>, Sharath Chandra Raparthy, Irina Rish, Yoshua Bengio, Guillaume Lajoie"
-venue: "ICLR (Spotlight)"
+venue: "ICLR <span style="color:red;"> (Spotlight) </span>"
 arxiv: https://arxiv.org/abs/2110.09419
 code: https://github.com/sarthmit/Compositional-Attention
 ---
