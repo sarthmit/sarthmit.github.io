@@ -6,8 +6,9 @@ image: /images/catt.png
 categories: research
 author: "Sarthak Mittal"
 authors: "<strong>Sarthak Mittal</strong>, Sharath Chandra Raparthy, Irina Rish, Yoshua Bengio, Guillaume Lajoie"
-venue: "ICLR <span style="color:red;"> (Spotlight) </span>"
+venue: "ICLR"
 arxiv: https://arxiv.org/abs/2110.09419
 code: https://github.com/sarthmit/Compositional-Attention
+spotlight: yes
 ---
 We propose *Compositional Attention*, a novel mechanism that disentangles searches and retrievals and allows for their flexible re-composition. This enables the model to dynamically retrieve different attributes of objects and improves upon certain limitations of Multi-head attention.
