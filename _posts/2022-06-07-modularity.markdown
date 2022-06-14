@@ -2,7 +2,7 @@
 layout: post
 title:  "Is a Modular Architecture Enough?"
 date:   2022-06-07 00:00:00 +00:00
-image: /images/is_modularity_enough.png
+image: /images/is_modular_enough.jpg
 categories: research
 author: "Sarthak Mittal"
 authors: "<strong>Sarthak Mittal</strong>, Yoshua Bengio, Guillaume Lajoie"
