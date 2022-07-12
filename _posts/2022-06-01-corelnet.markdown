@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "On Neural Architecture Inductive Biases for Relational Tasks"
+date:   2022-06-01 00:00:00 +00:00
+image: /images/corelnet.jpg
+categories: research
+author: "Sarthak Mittal"
+authors: "Giancarlo Kerg, <strong>Sarthak Mittal</strong>, David Rolnick, Yoshua Bengio, Blake Richards and Guillaume Lajoie"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2206.05056
+code: https://github.com/giancarlok/relationaltasks
+---
+We analyze systems that allow for a separate dedicated relational reasoning unit like Emergent Symbols through Binding in External Memory. We not only uncover their core inductive biases that are imperative for good OoD generalization but also propose a novel mechanism, CorelNet, that outperforms such baselines over more complex reasoning tasks.

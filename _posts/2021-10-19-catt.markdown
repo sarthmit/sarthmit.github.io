@@ -10,5 +10,6 @@ venue: "ICLR"
 arxiv: https://arxiv.org/abs/2110.09419
 code: https://github.com/sarthmit/Compositional-Attention
 spotlight: yes
+blog: https://mila.quebec/en/article/compositional-attention-disentangling-search-and-retrieval/
 ---
 We propose *Compositional Attention*, a novel mechanism that disentangles searches and retrievals and allows for their flexible re-composition. This enables the model to dynamically retrieve different attributes of objects and improves upon certain limitations of Multi-head attention.
