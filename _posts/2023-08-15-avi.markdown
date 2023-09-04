@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Exploring Exchangeable Dataset Amortization for Bayesian Posterior Inference"
+date:   2023-08-15 00:00:00 +00:00
+image: /images/avi.jpg
+categories: research
+author: "Sarthak Mittal"
+authors: "<strong>Sarthak Mittal</strong>, Niels Leif Bracher, Guillaume Lajoie, Priyank Jaini, Marcus A Brubaker"
+venue: "ICML SPIGM Workshop"
+# arxiv: https://arxiv.org/abs/2206.02713
+# code: https://github.com/sarthmit/mod_arch
+---
+We propose a neural network-based approach that can handle exchangeable observations and amortize over datasets to convert the problem of Bayesian posterior inference into a single forward pass of a network. 

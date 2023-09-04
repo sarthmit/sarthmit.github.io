@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "From Points to Functions: Infinite-dimensional Representations in Diffusion Models"
+date:   2023-06-15 00:00:00 +00:00
+image: /images/infrep.jpg
+categories: research
+author: "Sarthak Mittal"
+authors: "<strong>Sarthak Mittal</strong>, Guillaume Lajoie, Stefan Bauer, Arash Mehrjou"
+venue: "Preprint"
+arxiv: https://arxiv.org/abs/2210.13774
+# code: https://github.com/sarthmit/mod_arch
+---
+Diffusion models can be equipped to do representation learning and lead to infinite-dimensional trajectory-based representations for static objects like images. We provide a thorough analysis into the kind of semantics that are encoded in different parts of this trajectory representation and provide attention-based methods to automatically filter important parts of the representation based on a given discretization scheme.

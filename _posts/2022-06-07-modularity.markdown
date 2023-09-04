@@ -6,7 +6,7 @@ image: /images/is_modular_enough.jpg
 categories: research
 author: "Sarthak Mittal"
 authors: "<strong>Sarthak Mittal</strong>, Yoshua Bengio, Guillaume Lajoie"
-venue: "Preprint"
+venue: "NeurIPS"
 arxiv: https://arxiv.org/abs/2206.02713
 code: https://github.com/sarthmit/mod_arch
 ---

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Diffusion-Based Representation Learning"
+date:   2023-06-07 00:00:00 +00:00
+image: /images/dbrl.jpg
+categories: research
+author: "Sarthak Mittal"
+authors: "<strong>Sarthak Mittal*</strong>, Korbinian Abstreiter*, Stefan Bauer, Bernhard Schölkopf, Arash Mehrjou"
+venue: "ICML"
+arxiv: https://arxiv.org/abs/2105.14257
+# code: https://github.com/sarthmit/mod_arch
+---
+We leverage diffusion based models for learning representations of the input which can then be used for downstream applications. Our experiments highlight that learning representations for the task of iterative denoising works better than reconstruction based methods like autoencoders and can also further be utilized as a pre-training setup for semi-supervised models like LaplaceNet. 
